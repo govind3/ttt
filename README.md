@@ -27,3 +27,8 @@ Start the app
 ### `npm start`
 
 <br />
+
+
+### Hosted Link
+
+Open [https://govind-terribly-tiny-tales.netlify.app/](https://govind-terribly-tiny-tales.netlify.app/) to view it in your browser.
